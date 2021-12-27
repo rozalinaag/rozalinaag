@@ -4,8 +4,9 @@
 ```python
 print("I’m currently learning Django")
 ```
-***My skills:***
-| `Python` | `Java` | `c++` | `Django` | `OOP` |
+***🌱 My skills:***
+| `Python` | `Java` | `c++` | `Django` | `OOP` | `SQL` | `MySQL` | `PyQt` | `HTML` | `CSS` | `Git` | `Postman` | `Adobe Photoshop` | `Figma` | `QA` |
+
 <!--
 **rozalinaag/rozalinaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
