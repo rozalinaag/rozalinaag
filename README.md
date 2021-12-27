@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hello, I'm Rozalina 👋
+### I study at the Kuban State University!
 
+```python
+print("I’m currently learning Django")
+```
+***My skills:***
+| `Python` | `Java` | `c++` | `Django` | `OOP` |
 <!--
 **rozalinaag/rozalinaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
