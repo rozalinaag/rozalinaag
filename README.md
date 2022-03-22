@@ -2,10 +2,10 @@
 ### I study at the Kuban State University!
 
 ```python
-print("I’m currently learning Django")
+print("I’m currently learning ReactJS")
 ```
 ***🌱 My skills:***
-| `Python` | `Java` | `c++` | `Django` | `OOP` | `SQL` | `PostgreSQL` | `PyQt` | `HTML` | `CSS` | `Sass` | `Git` | `Postman` | `Figma` | `QA` | `Adobe Premier Pro` | `Adobe Photoshop` | `Docker` |
+| `Python` | `Java` | `c++` | `Django` | `OOP` | `SQL` | `PostgreSQL` | `PyQt` | `HTML5` | `CSS3` | `BEM` | `Sass` | `Git` | `Postman` | `Figma` | `QA` | `Adobe Premier Pro` | `Adobe Photoshop` | `Docker` | `JavaScript` |
 
 <!--
 **rozalinaag/rozalinaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
