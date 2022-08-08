@@ -1,11 +1,11 @@
 ## Hello, I'm Rozalina 👋
 ### I study at the Kuban State University!
 
-```python
+```js
 print("I’m currently learning ReactJS")
 ```
 ***🌱 My skills:***
-| `Python` | `Java` | `c++` | `Django` | `OOP` | `SQL` | `PostgreSQL` | `PyQt` | `HTML5` | `CSS3` | `BEM` | `Sass` | `Git` | `Postman` | `Figma` | `QA` | `Adobe Premier Pro` | `Adobe Photoshop` | `Docker` | `JavaScript` | `NodeJS` | `Express` | `ReactJs` |
+| `Python` | `Java` | `c++` | `Django` | `OOP` | `SQL` | `PostgreSQL` | `HTML5` | `CSS3` | `BEM` | `Sass` | `Git` | `Postman` | `Figma` | `QA` | `Adobe Premier Pro` | `Adobe Photoshop` | `Docker` | `JavaScript` | `NodeJS` | `Express` | `ReactJs` | `SharePoint` | `TypeScript` | 
 
 <!--
 **rozalinaag/rozalinaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
