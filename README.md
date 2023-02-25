@@ -2,7 +2,7 @@
 ### I study at the Kuban State University!
 
 ```js
-print("I’m currently learning ReactJS")
+print("I’m currently learning Redux Toolkit")
 ```
 ***🌱 My skills:***
 | `Python` | `Java` | `c++` | `Django` | `OOP` | `SQL` | `PostgreSQL` | `HTML5` | `CSS3` | `BEM` | `Sass` | `Git` | `Postman` | `Figma` | `QA` | `Adobe Premier Pro` | `Adobe Photoshop` | `Docker` | `JavaScript` | `NodeJS` | `Express` | `ReactJs` | `SharePoint` | `TypeScript` | 
