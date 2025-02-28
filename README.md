@@ -1,4 +1,4 @@
-## Hello, I'm Rozalina! <img src="https://github.com/user-attachments/assets/1573dd74-b56e-4b9b-ab26-0d9e1c06fa53" alt="wave-panda" width="50" height="50">
+## Hello, I'm Rozalina! <img src="https://github.com/user-attachments/assets/1573dd74-b56e-4b9b-ab26-0d9e1c06fa53" alt="wave-panda" width="30" height="30">
 
 ## I am a Software Engineer!
 
