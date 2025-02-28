@@ -2,5 +2,5 @@
 
 ## I am a Software Engineer!
 
-***🌱 My skills:***
+***<img src="https://github.com/user-attachments/assets/db530acf-1722-431c-a7b3-077cb179662b" alt="wave-panda" width="30" height="30">My skills:***
 | `TypeScript` | `JavaScript` | `ReactJs` | `React queries` | `Redux Toolkit` |`Next.Js` | `Node.js` | `SharePoint` | `Python` | `OOP` | `SQL` | `PostgreSQL` | `HTML5` | `CSS3` | `BEM` | `Sass` | `Git` | `Postman` | `Figma` | `Docker` |`Tailwinds CSS` | `Ant Design` | `AWS` | `GrapghQL`
